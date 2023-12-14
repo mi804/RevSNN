@@ -41,6 +41,11 @@ For technical communications, please contact hongzhang99@zju.edu.cn.
 ## Reference
 If you find this repo useful, please consider citing:
 ```
-
+@article{RevSNN,
+  title={Memory-Efficient Reversible Spiking Neural Networks},
+  author={Zhang, Hong and Zhang, Yu},
+  journal={arXiv preprint arXiv:2312.07922},
+  year={2023}
+}
 ```
 Our codes are based on PyTorch and SpikingJelly by Wei Fang.
